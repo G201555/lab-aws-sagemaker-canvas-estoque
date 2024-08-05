@@ -9,6 +9,8 @@ Para começar, escolhi o dataset “dataset-1000-com-preco-promocional-e-renovac
 ### Modelos de construção e treinamento
 
 Com o conjunto de dados em mãos, carreguei os dados no SageMaker Canvas. Defino variáveis ​​de entrada, como preço promocional e histórico de vendas, e defino a variável de saída como previsão de recuperação de estoque. Comecei a treinar modelos e depois de um tempo o SageMaker Canvas forneceu um modelo treinado.
+![image](https://github.com/user-attachments/assets/3481b5dd-eb10-49a5-b4b6-5fff3de46238)
+
 ### Análise de padrões
 
 Após o treinamento veio a parte mais interessante: analisar o desempenho do modelo. O SageMaker Canvas forneceu várias métricas que me ajudaram a entender a precisão do modelo. Descobri que o preço promocional era uma das variáveis ​​mais importantes na previsão do giro de estoque. Fiz alguns ajustes no modelo e iterei até obter resultados mais satisfatórios.
