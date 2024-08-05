@@ -18,6 +18,10 @@ Após o treinamento veio a parte mais interessante: analisar o desempenho do mod
 ### Previsões e resultados
 
 Quando o modelo ficou pronto, comecei a fazer previsões de faturas de estoque. Foi incrível ver como os dados se tornaram informações valiosas. A previsão ajudou a identificar padrões de demanda e otimizar o estoque, o que poderia levar a economias e melhor disponibilidade de produtos.
+
+![image](https://github.com/user-attachments/assets/dc42ac14-c64f-49a7-b8e6-d757bb9a4392)
+
+
 ### Conclusão
 
 Este projeto foi uma experiência enriquecedora. O Amazon SageMaker Canvas mostrou como o aprendizado de máquina pode ser acessível e poderoso, mesmo para não programadores. Trabalhar com o conjunto de dados “dataset-1000-com-preco-promocional-e-renovacao-estoque” foi essencial para entender melhor a dinâmica do estoque e como podemos melhorar a gestão do estoque.
